@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kube-apiserver-amd64:v1.16.0-beta.2
+FROM k8s.gcr.io/kube-apiserver-amd64:v1.4.12-beta.0
